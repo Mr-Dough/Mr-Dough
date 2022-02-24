@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Mr-Dough
+- 👀 I’m interested in Music and Greek Mythology.
+- 🌱 I’m currently learning C++ and the guitar.
+- 📫 How to reach me joshuawurtenberg1@gmail.com
